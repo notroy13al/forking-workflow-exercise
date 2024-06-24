@@ -1,3 +1,9 @@
 Algo de texto 1. 
 
 Esto es el master. 
+
+3 linea. 
+
+4 linea. 
+
+He corregido los errores quitando primero lo del pull y ahora añadiendo esta linea. 
